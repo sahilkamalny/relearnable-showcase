@@ -20,7 +20,7 @@
 
 ## Overview
 
-Relearnable is a full-stack adaptive learning application that uses AI to generate personalized study content on any topic. Users can learn from scratch via AI-crafted flashcard and quiz lessons, or take placement tests that identify knowledge gaps and build targeted remediation curricula. Progress is tracked visually through an interactive knowledge graph and a radar chart spanning 15 subject categories.
+Relearnable is a full-stack adaptive learning application that uses AI to generate personalized study content on any topic. Learn from scratch via AI-crafted flashcard and quiz lessons, or take placement tests that identify knowledge gaps and build targeted remediation curricula. Progress is tracked visually through an interactive knowledge graph and a radar chart spanning 15 subject categories.
 
 ---
 
