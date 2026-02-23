@@ -47,7 +47,7 @@ Relearnable is a full-stack adaptive learning application that uses AI to genera
 ## Features
 
 **Adaptive Learning Engine**
-- *Learn Mode* — AI generates structured lessons as flashcards and quizzes for any topic
+- *Learn Mode* — AI generates structured lessons via flashcards and quizzes for any topic
 - *Relearn Mode* — Placement tests surface knowledge gaps and produce targeted remediation paths
 - Beginner, Intermediate, and Advanced content difficulty options
 
